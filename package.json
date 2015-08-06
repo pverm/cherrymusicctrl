@@ -1,9 +1,10 @@
 {
   "name": "cherrymusicctrl",
-  "fullName": "CherryMusic Control",
-  "id": "jid1-BRWddHAGFIkljg",
-  "description": "You use CherryMusic as a standart music player, but it is not very easy to search a tab with CherryMusic, and then click \"Pause\" or \"Next\" etc. Now your life will become abit easier, you have a widget with all buttons you need",
+  "title": "CherryMusic Control",
+  "id": "jid1-BRWddHAGFIkljg@jetpack",
+  "description": "Media control keys for CherryMusic",
   "author": "sets88",
-  "license": "MPL 2.0",
-  "version": "0.4"
+  "license": "MPL-2.0",
+  "version": "0.4.2",
+  "main": "index.js"
 }
