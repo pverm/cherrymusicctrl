@@ -6,5 +6,25 @@
   "author": "sets88",
   "license": "MPL-2.0",
   "version": "0.4.2",
-  "main": "index.js"
+  "main": "index.js",
+  "preferences": [{
+    "name": "iconTheme",
+    "type": "menulist",
+    "title": "Icon theme",
+    "value": 1,
+    "options": [{
+        "value": "0", "label": "Gloss Basic by Momentum"
+      },{
+        "value": "1", "label": "Gylphicons by Jan Kovarik"
+      },{
+        "value": "2", "label": "Oxygen by Oxygen Team"
+      },{
+        "value": "3", "label": "OpenWorld by Chandan"
+    }]
+  },{
+    "type": "bool",
+    "name": "hotkeyEnabled",
+    "value": true,
+    "title": "Enable pause hotkey (ctrl+space)"
+  }]
 }

@@ -1,0 +1,3 @@
+disable buttons when logged out
+nicer info panel
+playlist panel
