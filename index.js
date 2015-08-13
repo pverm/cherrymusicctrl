@@ -86,7 +86,7 @@ var buttons = [playButton, prevButton, nextButton, logoutButton, infoButton];
 
 var infoPanel = panels.Panel({
     width: 350,
-    height: 70,
+    height: 115,
     contentURL: data.url("infopanel.html"),
     onHide: function() {
         infoButton.state("window", { checked: false });

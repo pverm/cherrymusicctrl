@@ -1,0 +1,25 @@
+#message {
+
+}
+
+#status {
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+#cover {
+    max-height: 100%;
+}
+
+.info-wrap {
+    float: left;
+    position: relative;
+    max-width: 230px;
+}
+
+.cover-wrap {
+    float: right;
+    position: relative;
+    height: 100px;
+    width: 100px;
+}
