@@ -1,3 +1,9 @@
 disable buttons when logged out
 nicer info panel
 playlist panel
+
+
+cherrymusic login:
+document.forms["loginform"]["username"].value = <user>
+document.forms["loginform"]["password"].value = <pw>
+document.forms["loginform"]["login"].click()

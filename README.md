@@ -1,16 +1,18 @@
 CherryMusic Control (Firefox addon)
 ===============
 
-You use [CherryMusic](http://www.fomori.org/cherrymusic/) as a standart music player, 
-but it is not very easy to search a tab with [CherryMusic](http://www.fomori.org/cherrymusic/), and then click "Pause" or "Next" etc. 
+Easier media player controls for [CherryMusic](http://www.fomori.org/cherrymusic/)
 
+###Available buttons
+* Play/Pause
+* Previous track
+* Next track
+* Media info
+* Logout
 
-Now your life will become abit easier, you have a widget with all buttons you need
+###Hotkeys
+* Play/Pause - "Ctrl + Space"
 
-
-It looks like this:
-
-![Screenshot](http://sets88.com/static/media/uploads/images/cherrymusicctrl/cherrymusicctrl.png)
-
-
-You can use a quick Key shortcut "Ctrl + Space" to Play/Pause
+###Screenshots
+* ![Glyphicons](doc/cherry_glyphicons.png?raw=true "Glyphicons by Jan Kovarik")
+* ![Gloss Basic](doc/cherry_gloss.png?raw=true "Gloss Basic by Momentum")
